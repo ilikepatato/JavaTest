@@ -19,6 +19,7 @@ public class Test1 {
         
         System.out.println("LoginPage");
         System.out.println("LoginPage2");
+        System.out.println("LoginPage2");
         
     }
 }
