@@ -21,5 +21,7 @@ public class Test1 {
         System.out.println("LoginPage2");
         System.out.println("LoginPage2");
         
+        
+        System.out.println("Branch 5");
     }
 }
