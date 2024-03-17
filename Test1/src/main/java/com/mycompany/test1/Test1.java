@@ -16,5 +16,8 @@ public class Test1 {
         System.out.println("13");
         System.out.println("Branch4");
         System.out.println("Branch6");
+        
+        System.out.println("LoginPage");
+        
     }
 }
