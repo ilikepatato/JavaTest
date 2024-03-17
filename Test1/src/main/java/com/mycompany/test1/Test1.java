@@ -18,6 +18,7 @@ public class Test1 {
         System.out.println("Branch6");
         
         System.out.println("LoginPage");
+        System.out.println("LoginPage2");
         
     }
 }
